@@ -28,5 +28,8 @@ Clone the repo:
 ```bash
 git clone https://github.com/callulily/fraud_detection_
 cd fraud_detection_
+```
 
-Contact Made with 💙 by Aliya If you have any questions, feel free to reach out via GitHub Or via email: karimovna04@mail.ru.
+## Contact
+Made with 💙 by Aliya – [GitHub](https://github.com/callulily) | Email: karimovna04@mail.ru
+
